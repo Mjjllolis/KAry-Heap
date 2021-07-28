@@ -1,0 +1,5 @@
+Extracting Min: 100
+Extracting Min: 120
+Extracting Min: 150
+Extracting Min: 42
+Time: 10192 Microseconds
